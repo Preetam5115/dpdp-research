@@ -1,0 +1,22 @@
+{
+  "model": "llama3.1:8b",
+  "attacker_model": "qwen2.5:7b",
+  "backend": "ollama",
+  "temps": [
+    0.5,
+    0.7,
+    0.9
+  ],
+  "runs": 3,
+  "n_cases": 200,
+  "kb_sources": [
+    "dpdp_act_2023.pdf",
+    "dpdp_act_rules.pdf",
+    "dpdp_act_summary.pdf"
+  ],
+  "compliance_temp": 0.1,
+  "judge_temp": 0.1,
+  "top_k": 3,
+  "judge": "label-blind",
+  "started": "2026-10-03 01:30:12"
+}

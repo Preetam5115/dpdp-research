@@ -1,0 +1,22 @@
+RESULTS PROVENANCE AND REPRODUCIBILITY NOTE
+
+This file contains the aggregate experimental results reported in the manuscript and
+recorded during the original experimentation. It is NOT a reconstructed per-case
+raw-output file.
+
+The original per-case CSV result artifacts from the final experiment were not retained.
+The submitted source code contains the routines required to execute the experiments and
+generate per-case CSV outputs again. Any newly generated CSVs should be understood as
+new experimental runs and should not be represented as the historical raw outputs.
+
+The aggregate values in this file are preserved from the reported experimental results.
+The manuscript should remain the authoritative source for the experimental methodology,
+dataset description, and interpretation.
+
+Important:
+- The evaluation dataset used in the final manuscript contains 200 cases.
+- The dataset is predominantly synthetic, as described in the manuscript.
+- Config C F1 is recorded as 0.628, consistent with Table IV and the corrected manuscript.
+- Standard deviations are included only where they were reported in the manuscript.
+- This file is supplied to document the recorded aggregate findings, not to fabricate
+  or imply recovery of missing historical per-case observations.

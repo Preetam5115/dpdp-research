@@ -1,0 +1,39 @@
+Experiment,Configuration,Temperature,Metric,Value,SD,Notes
+Temperature Sweep,V5 Full System,0.5,Precision,0.593,0.014,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.5,Recall,0.748,0.034,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.5,F1,0.661,0.022,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.5,Accuracy,0.560,0.028,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.5,FPR,0.694,0.028,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.7,Precision,0.570,0.066,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.7,Recall,0.645,0.039,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.7,F1,0.605,0.054,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.7,Accuracy,0.535,0.078,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.7,FPR,0.593,0.084,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.9,Precision,0.541,0.036,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.9,Recall,0.691,0.094,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.9,F1,0.606,0.060,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.9,Accuracy,0.510,0.053,Mean ± sample SD across 3 independent runs
+Temperature Sweep,V5 Full System,0.9,FPR,0.711,0.022,Mean ± sample SD across 3 independent runs
+Ablation,Config A: Compliance Agent only,All,Precision,0.964,,Reported aggregate result
+Ablation,Config A: Compliance Agent only,All,Recall,0.964,,Reported aggregate result
+Ablation,Config A: Compliance Agent only,All,F1,0.964,,Reported aggregate result
+Ablation,Config A: Compliance Agent only,All,Accuracy,0.960,,Reported aggregate result
+Ablation,Config A: Compliance Agent only,All,FPR,0.044,,Reported aggregate result
+Ablation,"Config B: + Adversarial Agent, no Judge",All,Precision,0.618,0.003,Mean ± SD across the three tested temperatures
+Ablation,"Config B: + Adversarial Agent, no Judge",All,Recall,0.309,0.018,Mean ± SD across the three tested temperatures
+Ablation,"Config B: + Adversarial Agent, no Judge",All,F1,0.412,0.017,Mean ± SD across the three tested temperatures
+Ablation,"Config B: + Adversarial Agent, no Judge",All,Accuracy,0.515,0.005,Mean ± SD across the three tested temperatures
+Ablation,"Config B: + Adversarial Agent, no Judge",All,FPR,0.233,0.011,Mean ± SD across the three tested temperatures
+Ablation,Config C: Full three-agent system,All,Precision,0.572,,Reported aggregate result
+Ablation,Config C: Full three-agent system,All,Recall,0.695,,Reported aggregate result
+Ablation,Config C: Full three-agent system,All,F1,0.628,,Reported aggregate result; corrected to match Table IV
+Ablation,Config C: Full three-agent system,All,Accuracy,0.535,,Reported aggregate result
+Ablation,Config C: Full three-agent system,All,FPR,0.666,,Reported aggregate result
+Prompt Comparison,V4,0.5,Precision,0.558,,Single comparison reported in manuscript
+Prompt Comparison,V5,0.5,Precision,0.593,,Single comparison reported in manuscript
+Prompt Comparison,V4,0.5,Recall,0.794,,Single comparison reported in manuscript
+Prompt Comparison,V5,0.5,Recall,0.748,,Single comparison reported in manuscript
+Prompt Comparison,V4,0.5,F1,0.655,,Single comparison reported in manuscript
+Prompt Comparison,V5,0.5,F1,0.661,,Single comparison reported in manuscript
+Prompt Comparison,V4,0.5,FPR,0.763,,Single comparison reported in manuscript
+Prompt Comparison,V5,0.5,FPR,0.694,,Single comparison reported in manuscript

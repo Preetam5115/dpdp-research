@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "TC001",
+    "text": "By checking this box, you agree to our Terms of Service and consent to us sharing your browsing history with our affiliate marketing partners.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC002",
+    "text": "We do not require your consent to process your purchase history for targeted advertising, as this falls under our legitimate business interests.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC003",
+    "text": "Your continued use of this app constitutes your consent to all data processing activities described in our 47-page privacy policy.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC004",
+    "text": "We share your personal data with third parties unless you opt out within 24 hours of account creation.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC005",
+    "text": "By downloading our app you automatically agree to share your location data with our advertising network.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC006",
+    "text": "We collect your email address solely to send your order receipt. You may unsubscribe from any additional communications at any time via your account settings.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC007",
+    "text": "Before we collect any personal data, we will present you with a clear notice explaining exactly what we collect, why we collect it, and how you can withdraw consent at any time.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC008",
+    "text": "You may withdraw your consent for marketing emails at any time by clicking unsubscribe. Withdrawal will take effect within 24 hours.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC009",
+    "text": "To register for our online chess tournament, please provide your full name, email, blood group, exact GPS location, and mother's maiden name.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC010",
+    "text": "To use our basic calculator app, you must grant us access to your phone's microphone and contact list. If you do not agree, you cannot use the app.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC011",
+    "text": "Our food delivery app collects your real-time location continuously even when the app is closed and not in use.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC012",
+    "text": "To create a library membership, we require your Aadhaar number, bank account details, employment history, and marital status.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC013",
+    "text": "Our ride-hailing app collects only your pickup and drop-off location during active trips. Location access is disabled when no trip is in progress.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC014",
+    "text": "We collect only your name and email address to create your account. No additional personal information is required or requested.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC015",
+    "text": "Please enter your Aadhaar number and biometric scan to enter the building.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Sensitive Data"
+  },
+  {
+    "id": "TC016",
+    "text": "We collect your facial recognition data to personalise your shopping experience and recommend products.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Sensitive Data"
+  },
+  {
+    "id": "TC017",
+    "text": "Your fingerprint data collected for attendance purposes will also be shared with our parent company for identity verification services.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Sensitive Data"
+  },
+  {
+    "id": "TC018",
+    "text": "You may withdraw your consent for data processing at any time by mailing a physical, notarized letter to our headquarters in Iceland. Processing will take 90 days.",
+    "type": "violating",
+    "dpdp_section": "Rule 3",
+    "category": "Consent Withdrawal"
+  },
+  {
+    "id": "TC019",
+    "text": "To opt out of data processing, you must call our helpline between 9am\u201311am on Tuesdays only and complete a 30-minute verification process.",
+    "type": "violating",
+    "dpdp_section": "Rule 3",
+    "category": "Consent Withdrawal"
+  },
+  {
+    "id": "TC020",
+    "text": "We may ask you to pay a fee of Rs. 500 to process your consent withdrawal request.",
+    "type": "violating",
+    "dpdp_section": "Rule 3",
+    "category": "Consent Withdrawal"
+  },
+  {
+    "id": "TC021",
+    "text": "You can withdraw your consent at any time through the Settings menu in our app. The process takes less than one minute and takes effect immediately.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent Withdrawal"
+  },
+  {
+    "id": "TC022",
+    "text": "We reserve the right to retain your personal data indefinitely on our servers to improve our AI models, even after you delete your account.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC023",
+    "text": "User data is never deleted and will be retained for the lifetime of our company for historical analysis and product improvement.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC024",
+    "text": "We retain your transaction data for seven years as required by the Income Tax Act, 1961. All other personal data is deleted within 30 days of account closure.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC025",
+    "text": "Your delivery address and phone number are deleted 30 days after your last order is delivered. You will receive a notification before deletion.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC026",
+    "text": "We store all user passwords and credit card details in a plain-text Excel file for easy access by our customer support team.",
+    "type": "violating",
+    "dpdp_section": "Rule 6",
+    "category": "Security"
+  },
+  {
+    "id": "TC027",
+    "text": "Our database containing 2 million user records is publicly accessible via an unsecured API endpoint for developer convenience.",
+    "type": "violating",
+    "dpdp_section": "Rule 6",
+    "category": "Security"
+  },
+  {
+    "id": "TC028",
+    "text": "We encrypt all personal data at rest using AES-256 and in transit using TLS 1.3. Access to personal data is restricted to authorised personnel only.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Security"
+  },
+  {
+    "id": "TC029",
+    "text": "All personal data is stored on ISO 27001 certified servers with role-based access controls and continuous monitoring for unauthorised access.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Security"
+  },
+  {
+    "id": "TC030",
+    "text": "Internal Memo: We experienced a data breach yesterday compromising 10,000 user emails. Do not notify the users or the Data Protection Board; let us patch it silently.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC031",
+    "text": "We discovered a breach 6 days ago but are still deciding whether to notify users as we assess the business impact first.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC032",
+    "text": "We discovered a data breach affecting user email addresses. We notified the Data Protection Board within 72 hours and sent individual notifications to all affected users within 24 hours of discovery.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC033",
+    "text": "If you have a privacy complaint, please post it on our community forum. We do not have a dedicated Data Protection Officer or grievance email.",
+    "type": "violating",
+    "dpdp_section": "Rule 9",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC034",
+    "text": "Privacy complaints can only be submitted via fax. We do not accept digital communications for data protection matters.",
+    "type": "violating",
+    "dpdp_section": "Rule 9",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC035",
+    "text": "Our Data Protection Officer can be reached at dpo@ourcompany.com. All grievances are acknowledged within 48 hours and resolved within 30 days.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC036",
+    "text": "Contact our Grievance Officer at grievance@company.in or call 1800-XXX-XXXX. We respond to all data protection complaints within 30 days as required by law.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC037",
+    "text": "User Request: My surname is misspelled on my profile. System Response: We do not alter historical database records. Your request to correct personal data is denied.",
+    "type": "violating",
+    "dpdp_section": "Section 14",
+    "category": "Data Principal Rights"
+  },
+  {
+    "id": "TC038",
+    "text": "We do not provide copies of personal data to users. Our systems are proprietary and user data cannot be extracted or exported.",
+    "type": "violating",
+    "dpdp_section": "Section 14",
+    "category": "Data Principal Rights"
+  },
+  {
+    "id": "TC039",
+    "text": "Requests to access or delete your personal data are processed within 90 days as required by the DPDP Act. Submit requests through your account dashboard.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Principal Rights"
+  },
+  {
+    "id": "TC040",
+    "text": "You can download a copy of all personal data we hold about you at any time from the Privacy section of your account. Erasure requests are processed within 30 days.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Principal Rights"
+  },
+  {
+    "id": "TC041",
+    "text": "Are you under 18? Just click Yes to confirm you have your parent's permission to create an account and share your location with other players.",
+    "type": "violating",
+    "dpdp_section": "Section 9",
+    "category": "Children Data"
+  },
+  {
+    "id": "TC042",
+    "text": "Based on your activity in the Kids Math Games section, we have personalised these toy advertisements just for you!",
+    "type": "violating",
+    "dpdp_section": "Section 9",
+    "category": "Children Data"
+  },
+  {
+    "id": "TC043",
+    "text": "Since you are under 18, we require your parent or guardian to authorize this account. Please enter your parent's email address so we can send them a verification link via DigiLocker.",
+    "type": "violating",
+    "dpdp_section": "Rule 10",
+    "category": "Children Data"
+  },
+  {
+    "id": "TC044",
+    "text": "We sell behavioural profiles of child users to educational technology companies for product development purposes.",
+    "type": "violating",
+    "dpdp_section": "Section 9",
+    "category": "Children Data"
+  },
+  {
+    "id": "TC045",
+    "text": "For users under 18, we obtain verifiable consent from a parent or guardian via our DigiLocker-integrated verification system before any account creation or data processing.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children Data"
+  },
+  {
+    "id": "TC046",
+    "text": "Our educational platform does not serve advertisements to users under 18. Children's data is used solely for the provision of educational services.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children Data"
+  },
+  {
+    "id": "TC047",
+    "text": "By using this service, you consent to your personal data being processed and stored in [Country X - a nation restricted by the Central Government].",
+    "type": "violating",
+    "dpdp_section": "Section 15",
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC048",
+    "text": "We transfer all user data to our parent company's servers in an undisclosed jurisdiction without restriction.",
+    "type": "violating",
+    "dpdp_section": "Section 15",
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC049",
+    "text": "All personal data is stored on servers located in India. We do not transfer personal data outside India.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC050",
+    "text": "Where we transfer personal data outside India, we do so only to countries approved by the Central Government and in compliance with applicable transfer requirements.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC051",
+    "text": "Thank you for providing your phone number for two-factor authentication. We will also use this number to send you daily promotional SMS messages from our sponsors.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Purpose Limitation"
+  },
+  {
+    "id": "TC052",
+    "text": "The health data you shared with our fitness app will be sold to insurance companies to determine your premium rates.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Purpose Limitation"
+  },
+  {
+    "id": "TC053",
+    "text": "Your location data collected during delivery is used solely to dispatch riders and provide delivery updates. It is deleted once delivery is confirmed.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Purpose Limitation"
+  },
+  {
+    "id": "TC054",
+    "text": "We use your email address only to send order confirmations and critical security alerts. We do not use it for marketing without separate explicit consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Purpose Limitation"
+  },
+  {
+    "id": "TC055",
+    "text": "As a Significant Data Fiduciary, we have not conducted a Data Protection Impact Assessment in the last 24 months despite being required to do so annually.",
+    "type": "violating",
+    "dpdp_section": "Rule 13",
+    "category": "SDF Obligations"
+  },
+  {
+    "id": "TC056",
+    "text": "Our algorithmic systems that process personal data of over 10 crore users have not been audited for risks to data principal rights.",
+    "type": "violating",
+    "dpdp_section": "Rule 13",
+    "category": "SDF Obligations"
+  },
+  {
+    "id": "TC057",
+    "text": "As a Significant Data Fiduciary, we conduct annual Data Protection Impact Assessments and independent audits. Results are reported to the Data Protection Board.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "SDF Obligations"
+  },
+  {
+    "id": "TC058",
+    "text": "Our Consent Manager platform is operated by a company incorporated in Singapore and does not meet the Indian incorporation requirement.",
+    "type": "violating",
+    "dpdp_section": "Rule 4",
+    "category": "Consent Manager"
+  },
+  {
+    "id": "TC059",
+    "text": "The Consent Manager we use is registered with the Data Protection Board, incorporated in India, and maintains an interoperable platform for managing consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent Manager"
+  },
+  {
+    "id": "TC060",
+    "text": "To process your employment payroll, we require your bank account details and PAN card. This data is processed under the Employment Purposes provision of the DPDP Act.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Lawful Processing"
+  },
+  {
+    "id": "TC061",
+    "text": "We process your Aadhaar number to verify your identity for onboarding as required by RBI KYC guidelines.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Lawful Processing"
+  },
+  {
+    "id": "TC062",
+    "text": "We process your medical records under the state health scheme without your consent because the government told us to and we find it convenient.",
+    "type": "violating",
+    "dpdp_section": "Section 7",
+    "category": "Lawful Processing"
+  },
+  {
+    "id": "TC063",
+    "text": "We process your personal data for purposes not specified in our privacy policy but which we believe are beneficial to you.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Lawful Processing"
+  },
+  {
+    "id": "TC064",
+    "text": "Our third-party data processor stores user data without any contractual obligation to maintain security safeguards.",
+    "type": "violating",
+    "dpdp_section": "Rule 6",
+    "category": "Data Processor"
+  },
+  {
+    "id": "TC065",
+    "text": "All our data processors are contractually bound to maintain the same security standards we follow and are prohibited from processing data beyond our instructions.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Processor"
+  },
+  {
+    "id": "TC066",
+    "text": "Our privacy policy is available only in English and requires a law degree to understand. We consider this sufficient notice under DPDP.",
+    "type": "violating",
+    "dpdp_section": "Rule 3",
+    "category": "Notice"
+  },
+  {
+    "id": "TC067",
+    "text": "We bundle our data collection consent notice with 15 other terms and conditions checkboxes on the signup page.",
+    "type": "violating",
+    "dpdp_section": "Rule 3",
+    "category": "Notice"
+  },
+  {
+    "id": "TC068",
+    "text": "Before collecting any personal data, we present a clear, standalone consent notice in plain language that explains what data is collected, for what purpose, and how to withdraw consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Notice"
+  },
+  {
+    "id": "TC069",
+    "text": "Our consent notice is presented separately from other terms and conditions and is available in Hindi, Tamil, Bengali, and English.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Notice"
+  },
+  {
+    "id": "TC070",
+    "text": "We do not allow users to nominate another person to exercise their data rights on their behalf under any circumstances.",
+    "type": "violating",
+    "dpdp_section": "Section 14",
+    "category": "Nomination Rights"
+  },
+  {
+    "id": "TC071",
+    "text": "You can nominate a trusted individual to exercise your DPDP rights on your behalf through the Nomination section of your account settings.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Nomination Rights"
+  },
+  {
+    "id": "TC072",
+    "text": "We sell anonymised user behaviour profiles to third-party data brokers who use them for commercial profiling.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Data Sharing"
+  },
+  {
+    "id": "TC073",
+    "text": "We share aggregated, anonymised usage statistics with research institutions. No personally identifiable information is included in these transfers.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Sharing"
+  },
+  {
+    "id": "TC074",
+    "text": "We share your personal data with our group companies for cross-selling without obtaining separate consent for each company.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Data Sharing"
+  },
+  {
+    "id": "TC075",
+    "text": "We do not disclose to users what personal data we hold, how it is used, or with whom it is shared.",
+    "type": "violating",
+    "dpdp_section": "Section 14",
+    "category": "Transparency"
+  },
+  {
+    "id": "TC076",
+    "text": "Upon request, we provide users with a complete summary of what personal data we hold, the purpose of processing, and a list of third parties with whom it has been shared.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Transparency"
+  },
+  {
+    "id": "TC077",
+    "text": "Our AI system automatically denies loan applications based on personal data without any human review or right of appeal for the applicant.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Automated Decisions"
+  },
+  {
+    "id": "TC078",
+    "text": "Where automated processing significantly affects you, you have the right to request human review of the decision and to contest the outcome.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Automated Decisions"
+  },
+  {
+    "id": "TC079",
+    "text": "We claim research exemption to process and retain all user data indefinitely without consent, though our primary business is advertising.",
+    "type": "violating",
+    "dpdp_section": "Section 7",
+    "category": "Exemptions"
+  },
+  {
+    "id": "TC080",
+    "text": "Personal data processed under the research exemption is used solely for academic analysis, is not linked to identifiable individuals in publications, and is deleted after the study.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Exemptions"
+  },
+  {
+    "id": "TC081",
+    "text": "We need your email address to send you your receipt. You may also opt in to receive weekly newsletters by checking the box below. You can withdraw at any time.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC082",
+    "text": "We pre-tick all marketing consent boxes on our registration form. Users who do not notice and untick them are considered to have consented.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC083",
+    "text": "Refusing consent to optional data collection will result in your account being permanently suspended and data deleted.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC084",
+    "text": "The state government processes citizen personal data to deliver subsidies under the National Food Security Act. Citizens are informed of this processing via the scheme portal.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "State Processing"
+  },
+  {
+    "id": "TC085",
+    "text": "Our government department shares citizen data with private companies for commercial use under the guise of public interest.",
+    "type": "violating",
+    "dpdp_section": "Section 7",
+    "category": "State Processing"
+  },
+  {
+    "id": "TC086",
+    "text": "Patient medical records from our hospital are shared with pharmaceutical companies for drug marketing without patient consent.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Healthcare"
+  },
+  {
+    "id": "TC087",
+    "text": "Patient health data is processed solely for the provision of healthcare services and is not shared with any third party without explicit patient consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Healthcare"
+  },
+  {
+    "id": "TC088",
+    "text": "We process your bank account details and PAN card solely for payroll disbursement as required under employment law. This data is not used for any other purpose.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Financial"
+  },
+  {
+    "id": "TC089",
+    "text": "Your financial transaction data is shared with credit bureaus, marketing agencies, and data brokers without your consent.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Financial"
+  },
+  {
+    "id": "TC090",
+    "text": "To request a copy of your data or request erasure, click Submit Data Request. Our Grievance Officer will process your request within 72 hours.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Response Time"
+  },
+  {
+    "id": "TC091",
+    "text": "We respond to data access requests within 180 days at our discretion. We reserve the right to deny requests without providing reasons.",
+    "type": "violating",
+    "dpdp_section": "Rule 14",
+    "category": "Response Time"
+  },
+  {
+    "id": "TC092",
+    "text": "We build detailed behavioural profiles of all users by tracking their activity across the internet using third-party cookies without their knowledge.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Profiling"
+  },
+  {
+    "id": "TC093",
+    "text": "We use anonymised and aggregated analytics to understand how users interact with our product. No individual profiling is performed.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Profiling"
+  },
+  {
+    "id": "TC094",
+    "text": "We monitor all employee communications including personal emails and messages on personal devices connected to our network without their knowledge.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Employee Data"
+  },
+  {
+    "id": "TC095",
+    "text": "Employee monitoring is limited to company-owned devices and systems during working hours. Employees are informed of monitoring through the employment contract.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Employee Data"
+  },
+  {
+    "id": "TC096",
+    "text": "Before you proceed, please read our Privacy Notice. We collect your delivery address and phone number solely to deliver your food order. We delete this data 30 days after delivery. Read Full Notice here.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Edge Case Compliant"
+  },
+  {
+    "id": "TC097",
+    "text": "Our system automatically flags unusual login attempts and may temporarily lock your account. During this process, we log your IP address and device fingerprint for security purposes only.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Edge Case Compliant"
+  },
+  {
+    "id": "TC098",
+    "text": "We use your browsing history within our platform solely to personalise your homepage feed. This data is not shared externally and is deleted when you clear your history.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Edge Case Compliant"
+  },
+  {
+    "id": "TC099",
+    "text": "We retain logs of all transactions for a minimum of one year as required by the Information Technology (Intermediary Guidelines) Rules. These logs are used solely for legal compliance.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Edge Case Compliant"
+  },
+  {
+    "id": "TC100",
+    "text": "For fraud detection purposes, we analyse patterns in your transaction data using automated systems. If fraud is suspected, a human reviewer examines the case before any action is taken.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Edge Case Compliant"
+  },
+  {
+    "id": "TC101",
+    "text": "Before rolling out a new client-facing platform that processes personal data, the company conducts a Data Privacy Impact Assessment and applies recommended controls before the system goes live, in line with its 'privacy by design' process.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC102",
+    "text": "A new HR analytics tool that processes employees' PII and sensitive personal information is deployed enterprise-wide with no privacy impact assessment, no review of what data it collects, and no sign-off from the privacy function.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC103",
+    "text": "The company publishes data privacy guidelines for its vendors and cloud service providers, contractually requiring them to meet defined data protection obligations for as long as they process personal data on its behalf.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Sharing / Disclosure"
+  },
+  {
+    "id": "TC104",
+    "text": "A cloud vendor engaged to process customer data has no written privacy or security obligations in its contract, and the company has never reviewed how the vendor stores or protects the personal data it receives.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Sharing / Disclosure"
+  },
+  {
+    "id": "TC105",
+    "text": "The company has defined processes to detect, assess, contain, and manage data privacy incidents, and where an incident is high-impact or legally required, it notifies affected data subjects and the relevant supervisory authority within defined timelines.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC106",
+    "text": "Security note: A breach exposing customer PII was assessed internally as 'not serious enough to matter' by the IT team, who decided on their own not to escalate it to the privacy office or notify anyone, contrary to the company's own incident response process.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC107",
+    "text": "The company has established tools and processes to handle data subject rights requests, such as access, correction, and erasure, within the timelines stipulated by applicable data privacy laws.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC108",
+    "text": "A customer's request to correct inaccurate personal data on file was left unanswered for over a year, with no acknowledgment, tracking system, or escalation path for the request within the company.",
+    "type": "violating",
+    "dpdp_section": "Section 12",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC109",
+    "text": "The privacy office reports independently to General Counsel, with a Privacy Sub-council, Data Privacy Council, and Risk Management Committee of the Board providing layered oversight, and independent audits are carried out periodically to validate privacy controls.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Governance / Accountability"
+  },
+  {
+    "id": "TC110",
+    "text": "A company has no designated privacy function, no board-level oversight of data protection, and no periodic audits of how personal data is processed across its business units.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Governance / Accountability"
+  },
+  {
+    "id": "TC111",
+    "text": "In a reporting period where only one privacy breach was identified from outside the organization, the company's incident response process ensured the affected users were notified as required.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC112",
+    "text": "Employees handling large volumes of client PII across projects receive no mandatory data privacy training, and no annual awareness program exists to reinforce data protection obligations.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Governance / Accountability"
+  },
+  {
+    "id": "TC113",
+    "text": "HMD relies on 'your consent' as a legal ground only where it has obtained free, specific, informed, unconditional, and unambiguous consent through a clear affirmative action, as required under the DPDPA.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC114",
+    "text": "A device manufacturer treats a user's continued use of a pre-installed app as valid DPDPA consent to process their location and contact data for advertising, even though the user never took any affirmative action to agree.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC115",
+    "text": "A company operating in India has no named Grievance Officer, no published contact channel for privacy complaints, and directs all such queries to a general sales inquiry form with no response commitment.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC116",
+    "text": "HMD commits to responding to grievances within 1 month of receipt, in line with the readily available means of grievance redressal required under the DPDPA and its rules.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC117",
+    "text": "HMD processes children's personal data only after obtaining verifiable consent from a parent or lawful guardian, treats such data as sensitive personal data, and does not track or serve targeted advertising to children.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC118",
+    "text": "A phone-for-kids app collects a 12-year-old's location and browsing behaviour to serve targeted ads directly to the child, with account setup requiring only the child's own email address and no parental verification.",
+    "type": "violating",
+    "dpdp_section": "Section 9",
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC119",
+    "text": "Before submitting a relative's contact details on our vendor onboarding form, we require you to confirm you have obtained their consent, and for individuals with disabilities who have a lawful guardian, verifiable consent from that guardian.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC120",
+    "text": "Our newsletter sign-up form auto-selects the 'Share my data with promotional partners' checkbox by default, and customers must actively find and uncheck it if they do not want their data shared for marketing.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC121",
+    "text": "For visitor registration at our plant premises, we collect only your name, phone number, email, reason for visit, and the person you are meeting, which are needed to grant site access and maintain security records.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC122",
+    "text": "To register as a one-time event visitor at our stall, please also submit your Aadhaar number, PAN, driving licence, and vehicle insurance details, none of which are needed to log a short facility visit.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC123",
+    "text": "Our incident response plan requires that any unauthorised access, disclosure, or loss of Personal Data compromising confidentiality, integrity, or availability be assessed immediately and reported to affected Data Principals and the Data Protection Board as required by law.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC124",
+    "text": "IT team note: Contractor labour medical enrolment records including blood group and health data were exposed on an unsecured server for two weeks. Since it's only contractor data, there is no need to inform anyone or log it as a Personal Data Breach.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC125",
+    "text": "Personal Data is retained only for the duration of your engagement with Jindal Steel and for a limited period thereafter as required to comply with applicable law, after which it is securely deleted.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC126",
+    "text": "A former job applicant's marksheets, health insurance ID, and family dependent information have been kept on file for eight years after the recruitment process ended, with no retention schedule or legal basis cited for continuing to hold them.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC127",
+    "text": "A Data Principal emailed the Data Protection Officer requesting a summary of the Personal Data processed about them and the identities of Data Processors it was shared with; the DPO acknowledged the request and confirmed a response within 30 days.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC128",
+    "text": "A dealer submitted a Data Principal Request form asking for correction of an incorrect bank account number on file. The company replied that it does not process correction requests and that the DPR form is purely decorative.",
+    "type": "violating",
+    "dpdp_section": "Section 12",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC129",
+    "text": "If a Data Principal is unsatisfied with the DPO's response to a grievance, they may escalate the matter to the Data Protection Board of India or another body established under the DPDP Act, as explained in the Privacy Notice.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC130",
+    "text": "The company's grievance process consists solely of a generic 'Contact Us' form with no defined response timeline, no escalation path, and no information on how to approach the Data Protection Board of India.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC131",
+    "text": "Dabur only collects health-related data to send you tailored ads and promotions where you have separately provided consent to do so, distinct from your general consent to the Privacy Notice.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC132",
+    "text": "Merely by browsing the Dabur website, you are treated as having consented to your health, race, and sexual orientation data being collected and used for personalised advertising, with no separate consent step for these special categories.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC133",
+    "text": "Dabur has committed to promptly notify affected users through appropriate channels in the event of a data breach, as stated in its privacy policy's breach-notification commitment.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC134",
+    "text": "IT note: A misconfigured analytics dashboard exposed customer purchase and browsing profiles for two weeks. Since the breach commitment is just marketing language, no notification was sent to users or the Data Protection Board.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC135",
+    "text": "Dabur states it does not retain personal data beyond the period necessary to fulfil the purpose for which it was collected, unless retention is required by law or for audit and compliance purposes, and reviews data periodically for secure deletion or anonymisation.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC136",
+    "text": "Behavioral profiles built from a customer's browsing and purchase history five years ago are still actively used for ad targeting today, with no periodic review, deletion, or anonymisation ever having taken place.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC137",
+    "text": "A user emailed daburcares@dabur.com requesting access to the personal data held about them and correction of an outdated address; the request was logged for processing as one of the stated data-subject rights.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC138",
+    "text": "A customer asked for their profiling and purchase-history data to be deleted. Dabur responded that deletion requests are not accepted under any circumstances and that all profiling data is kept permanently regardless of the request.",
+    "type": "violating",
+    "dpdp_section": "Section 12",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC139",
+    "text": "Privacy-specific complaints sent to daburcares@dabur.com are recorded and addressed without undue delay by a designated team, following due process as required under applicable law.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC140",
+    "text": "There is no designated person or timeline for handling privacy grievances at Dabur; complaints sent to the general customer-care inbox about data misuse receive no acknowledgment or resolution process.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC141",
+    "text": "Before enabling ESG certification services, PEGS shows you the category of data collected, the specific purpose, whether the consent is optional or mandatory, and how to withdraw consent, then asks you to affirmatively opt in.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC142",
+    "text": "By continuing to browse the My Estatez app, you are deemed to have consented to PEGS sharing your property and identity data with unnamed third-party marketing partners, unless you email us to opt out within 7 days.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC143",
+    "text": "PEGS detected unauthorized access to a database containing OTP logs and device identifiers. In line with the CERT-In Directions, the incident was reported to CERT-In within six hours and affected users were notified.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC144",
+    "text": "Security team note: A misconfigured server exposed 5,000 users' billing details for three days. Since no one has complained yet, hold off on informing CERT-In or the Data Protection Board until next quarter's review.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC145",
+    "text": "Session and device identifiers used for authentication are purged automatically after your session ends, except where retained briefly for fraud detection as described in our retention schedule.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC146",
+    "text": "We keep all customer support chat logs, including personal data, indefinitely on our servers because storage is cheap and it might be useful someday.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC147",
+    "text": "You may request a summary of the personal data PEGS holds about you, including which processors it has been shared with, by emailing privacy@pegs.org.in with your registered account details for verification.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC148",
+    "text": "A user requested erasure of their personal data after account closure. PEGS refused, stating that it does not process erasure requests and that data will be retained forever regardless of applicable law.",
+    "type": "violating",
+    "dpdp_section": "Section 12",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC149",
+    "text": "Our sign-up form for the ESG certification portal states the Services are not intended for individuals under 18 and includes an age-confirmation checkbox before account creation proceeds.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC150",
+    "text": "If you are unsatisfied with the Privacy Officer's response to your grievance, you may escalate it to the Grievance Officer, and if still unresolved, file a complaint with the Data Protection Board of India.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC151",
+    "text": "PEGS has no designated Grievance Officer, no published email or process for complaints, and directs all user grievances to a general support inbox that is checked once a month.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC152",
+    "text": "FinEdge's loan application form clearly states the purpose of each data field, marks which are optional, and explains how consent can be withdrawn before collecting PAN and income details.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC153",
+    "text": "FinEdge's mobile app requires customers to accept a single bundled 'master consent' covering credit scoring, marketing, and data sharing with insurance partners as one non-negotiable checkbox to open an account.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC154",
+    "text": "FinEdge collects PAN and Aadhaar only for KYC verification as mandated by regulation, and does not use this data for cross-selling other financial products without separate consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Sensitive Personal Data"
+  },
+  {
+    "id": "TC155",
+    "text": "FinEdge retains KYC documents and transaction history of closed accounts indefinitely with no defined retention schedule, well beyond the period required by applicable financial regulation.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC156",
+    "text": "FinEdge's incident response policy requires notifying affected customers and the Data Protection Board within the timeline prescribed by law whenever a breach involving financial data is confirmed.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC157",
+    "text": "A customer's request to correct an incorrect date of birth on their loan account was ignored for four months with no acknowledgment from customer support.",
+    "type": "violating",
+    "dpdp_section": "Section 12",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC158",
+    "text": "Lab results and diagnostic reports are shared with patients only through an OTP-verified patient portal, and are never disclosed to third parties without the patient's explicit consent.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Sensitive Personal Data"
+  },
+  {
+    "id": "TC159",
+    "text": "MedCare shares patients' diagnostic results with a pharmaceutical marketing company for targeted drug promotions without ever asking patients for consent to this specific use.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC160",
+    "text": "A server misconfiguration exposed thousands of patients' diagnostic reports online for a week; the internal team decided not to inform patients since 'no evidence of misuse' was found, despite the exposure itself qualifying as a breach.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC161",
+    "text": "For patients under 18, MedCare requires a parent or guardian's verifiable consent before releasing any diagnostic report or processing the minor's health data.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC162",
+    "text": "Diagnostic reports are retained for the period mandated under applicable medical record-keeping regulations and securely purged thereafter.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC163",
+    "text": "Patients have no way to file a complaint about mishandling of their health records; the lab's website lists no grievance officer or contact email for privacy concerns.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC164",
+    "text": "ShopSphere's checkout page asks only for delivery address, phone number, and payment reference needed to fulfil an order.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC165",
+    "text": "To place a single order for a t-shirt, ShopSphere requires customers to submit their date of birth, gender, income bracket, and marital status, none of which are needed to ship the product.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC166",
+    "text": "ShopSphere builds detailed shopping and browsing profiles of every visitor to serve personalized ads, with profiling enabled by default and no way for users to opt out or find out what data is used.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Profiling / Behavioral Advertising"
+  },
+  {
+    "id": "TC167",
+    "text": "ShopSphere shares customer addresses only with the logistics partner assigned to a specific order, and that partner is contractually barred from using the data for any other purpose.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Sharing / Disclosure"
+  },
+  {
+    "id": "TC168",
+    "text": "Customers can view, download, and request deletion of their order history and saved addresses directly from their account settings page.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC169",
+    "text": "Customer purchase and payment data is routinely synced to an overseas fulfillment partner's servers with no data transfer agreement and no assessment of that country's data protection standards.",
+    "type": "violating",
+    "dpdp_section": "Section 16",
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC170",
+    "text": "EduLearn's platform for school students requires verifiable consent from a parent or school administrator before creating a learning profile for any student under 18.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC171",
+    "text": "EduLearn's app for middle-schoolers collects students' location and device usage patterns to serve targeted ads to the children themselves, with no parental consent step during sign-up.",
+    "type": "violating",
+    "dpdp_section": "Section 9",
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC172",
+    "text": "Before enabling video-recording of live classes, EduLearn asks students and parents for explicit opt-in consent, explaining how the recordings will be stored and used.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC173",
+    "text": "Video recordings of live classes and students' academic performance data are stored on EduLearn's servers indefinitely, even years after a student's account is deleted.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC174",
+    "text": "Parents can raise data privacy grievances through a dedicated email address, with EduLearn committing to respond within 15 working days.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC175",
+    "text": "To browse flight prices, TravelWise's app requires users to grant permanent access to their contacts list and call logs, which have no bearing on searching or booking flights.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC176",
+    "text": "TravelWise asks for a clear, separate opt-in before sharing a traveler's passport and visa details with the airline and hotel partners needed to complete a specific booking.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC177",
+    "text": "When a vendor's database containing customer passport scans was compromised, TravelWise promptly notified affected travelers and reported the incident to the Data Protection Board within the required timeframe.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC178",
+    "text": "TravelWise transfers booking data to overseas airline and hotel partners only under signed data-sharing agreements that require the partners to apply equivalent data protection safeguards.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Cross-Border Transfer"
+  },
+  {
+    "id": "TC179",
+    "text": "A customer's request to know which third parties their passport data had been shared with was met with a flat refusal to disclose any information, contrary to their stated right to access.",
+    "type": "violating",
+    "dpdp_section": "Section 11",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC180",
+    "text": "GreenAgro's farmer registration portal collects only name, phone number, farm location, and crop type needed to enroll farmers in its supply program.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC181",
+    "text": "Farmers are enrolled into a data-sharing scheme with agri-insurance companies by default when they register, with no option shown to decline before their data is shared.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC182",
+    "text": "Farmer registration and transaction records are retained only for the duration of the supply relationship plus the period required by tax and agricultural regulations.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Retention"
+  },
+  {
+    "id": "TC183",
+    "text": "Farmers who want to raise a complaint about how their data is used have no phone number, email, or in-person contact point provided anywhere in GreenAgro's materials.",
+    "type": "violating",
+    "dpdp_section": "Section 13",
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC184",
+    "text": "CityCab's driver app collects only the GPS location, trip details, and payment information needed to match riders with drivers and process fares.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC185",
+    "text": "CityCab continuously tracks riders' locations even when the app is closed and not in use, using this data to build movement profiles sold to third-party advertisers without consent.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Profiling / Behavioral Advertising"
+  },
+  {
+    "id": "TC186",
+    "text": "A leaked database exposed thousands of riders' trip histories and home addresses; CityCab quietly patched the vulnerability without informing affected riders or the Data Protection Board.",
+    "type": "violating",
+    "dpdp_section": "Rule 7",
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC187",
+    "text": "Riders can request a full export of their trip history and personal data through the app's privacy settings, with requests fulfilled within the stipulated statutory period.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC188",
+    "text": "StreamFlix asks new users for explicit consent before using their viewing history to generate personalized recommendations, with a clear toggle to opt out at any time.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  },
+  {
+    "id": "TC189",
+    "text": "StreamFlix shares subscribers' viewing history and account details with unrelated third-party data brokers for resale, without any contract governing how the brokers may use the data.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Sharing / Disclosure"
+  },
+  {
+    "id": "TC190",
+    "text": "StreamFlix's kids' profile mode restricts data collection to what is needed for content recommendations, avoids targeted advertising to children, and requires the parent account holder to enable it.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Children's Data"
+  },
+  {
+    "id": "TC191",
+    "text": "Subscribers can escalate an unresolved privacy complaint to StreamFlix's designated Grievance Officer, whose contact details are published in the app's privacy settings.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Grievance Redressal"
+  },
+  {
+    "id": "TC192",
+    "text": "A smart doorbell camera continuously records and stores audio and video of an entire street, well beyond what is needed to monitor a customer's own doorstep.",
+    "type": "violating",
+    "dpdp_section": "Section 4",
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC193",
+    "text": "HomeSecure's incident response plan requires it to notify affected customers whose camera feeds may have been accessed without authorization, and to report the incident to the Data Protection Board within the prescribed period.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Breach Notification"
+  },
+  {
+    "id": "TC194",
+    "text": "HomeSecure enables cloud backup of all camera footage by default at setup, with no prompt asking the customer whether they consent to their home footage being stored on remote servers.",
+    "type": "violating",
+    "dpdp_section": "Section 6",
+    "category": "Consent"
+  },
+  {
+    "id": "TC195",
+    "text": "Customers can request deletion of all stored footage and account data associated with their device directly from the HomeSecure app, and the request is processed within 30 days.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC196",
+    "text": "QuickBite's delivery-partner onboarding form collects only the documents required for identity verification and payout processing under applicable regulations.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Data Minimisation"
+  },
+  {
+    "id": "TC197",
+    "text": "QuickBite shares delivery partners' phone numbers and addresses with unrelated telemarketing firms in exchange for a referral fee, without informing the delivery partners.",
+    "type": "violating",
+    "dpdp_section": "Section 8",
+    "category": "Data Sharing / Disclosure"
+  },
+  {
+    "id": "TC198",
+    "text": "QuickBite has appointed a Data Protection Officer, conducts periodic data privacy audits, and reports compliance status to its board on a quarterly basis.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Governance / Accountability"
+  },
+  {
+    "id": "TC199",
+    "text": "A delivery partner's request to access the personal data QuickBite holds about them, including performance-tracking data, was denied on the grounds that 'such requests are not supported.'",
+    "type": "violating",
+    "dpdp_section": "Section 11",
+    "category": "Rights of Data Principal"
+  },
+  {
+    "id": "TC200",
+    "text": "Before enabling location tracking for delivery-time estimation, QuickBite requests explicit permission from the delivery partner and clearly explains how the tracking data will be used.",
+    "type": "compliant",
+    "dpdp_section": null,
+    "category": "Consent"
+  }
+]
